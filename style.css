@@ -22,13 +22,16 @@ body {
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Outfit';
+    color: #1f3251;
 }
 
-p {
+.card p {
     font-size: 15px;
     font-family: 'Outfit';
+    padding: 5px;
+    color: #7b879d;
 }
 
 footer {
@@ -37,4 +40,6 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: left;
+    font-family: 'Outfit';
+    font-size: small;
 }
